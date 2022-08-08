@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 754.827 754.827">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .04;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #0a0a0a;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 4.0000000539;
+        stroke-width: 1.0000000135px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #3b3b3b;
+      }
+
+      .cls-2 {
+        font-family: BelyDisplay-Regular, 'Bely Display';
+        font-size: 116.3531494141px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        letter-spacing: -.0199881448em;
+      }
+
+      .cls-8 {
+        fill: #171717;
+      }
+
+      .cls-9 {
+        fill: #454545;
+      }
+
+      .cls-10 {
+        opacity: .47;
+      }
+
+      .cls-11 {
+        letter-spacing: .0000041965em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" class="cls-5" cx="380.0845948697" cy="377.4146619661" r="377.4090729489"/>
+    </clipPath>
+  </defs>
+  <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-8" cx="377.4943889317" cy="377.9999853648" r="377.4090729489"/>
+  <g id="Ellipse_4" data-name="Ellipse 4">
+    <circle class="cls-5" cx="377.8643155369" cy="378.3966830799" r="202.1286396789"/>
+    <circle class="cls-4" cx="377.8643155369" cy="378.3966830799" r="201.7450938731"/>
+  </g>
+  <g id="Ellipse_5" data-name="Ellipse 5">
+    <circle class="cls-5" cx="377.8643155369" cy="378.3966830799" r="293.4125414694"/>
+    <circle class="cls-4" cx="377.8643155369" cy="378.3966830799" r="293.0289956636"/>
+  </g>
+  <g id="Ellipse_6" data-name="Ellipse 6">
+    <circle class="cls-5" cx="377.8643155369" cy="378.3966830799" r="317.9594730433"/>
+    <circle class="cls-3" cx="377.8643155369" cy="378.3966830799" r="317.5759272375"/>
+  </g>
+  <g id="Ellipse_7" data-name="Ellipse 7">
+    <circle class="cls-5" cx="377.8643155369" cy="378.3966830799" r="340.2051297822"/>
+    <circle class="cls-3" cx="377.8643155369" cy="378.3966830799" r="339.8215839764"/>
+  </g>
+  <g id="Ellipse_8" data-name="Ellipse 8">
+    <ellipse class="cls-5" cx="377.4810033767" cy="378.3832975249" rx="235.8806705931" ry="235.4971247872" transform="translate(-13.8456897054 742.428963668) rotate(-88.0000000935)"/>
+    <ellipse class="cls-3" cx="377.4810033767" cy="378.3832975249" rx="235.4971247872" ry="235.1135789814" transform="translate(-13.8456897055 742.4289636679) rotate(-88.0000000935)"/>
+  </g>
+  <g id="Ellipse_9" data-name="Ellipse 9">
+    <ellipse class="cls-5" cx="377.8777010918" cy="378.0133709198" rx="263.8795144196" ry="263.4959686137" transform="translate(-13.0931352848 742.4684033718) rotate(-88.0000000934)"/>
+    <ellipse class="cls-3" cx="377.8777010918" cy="378.0133709198" rx="263.4959686137" ry="263.1124228079" transform="translate(-13.0931352849 742.4684033716) rotate(-88.0000000934)"/>
+  </g>
+  <g class="cls-10">
+    <g class="cls-6">
+      <polygon class="cls-1" points="374.271078573 378.3922134752 646.4369879515 775.2595940599 108.5324334754 785.588692465 374.271078573 378.3922134752"/>
+      <polygon class="cls-1" points="380.6515457902 381.4135 643.6515457902 -21.5865 105.6515457902 -19.5865 380.6515457902 381.4135"/>
+    </g>
+  </g>
+  <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-9" cx="377.4943889317" cy="377.9999853648" r="128.1042991514"/>
+  <text class="cls-2" transform="translate(134.7820930346 404.3348379651) rotate(-.2129945113)"><tspan x="0" y="0">Sor</tspan><tspan class="cls-7" x="198.61328125" y="0">c</tspan><tspan class="cls-11" x="256.6743164063" y="0">erer</tspan></text>
+</svg>

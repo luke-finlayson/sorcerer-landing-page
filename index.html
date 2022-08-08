@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <title>sorcerer.nz</title>
+    <script>
+      function naviagteToJupyter() {
+        window.location.href = "https://jupyter.sorcerer.nz";
+      }
+      function navigateToFourthWall() {
+        window.location.href = "https://fourthwall.sorcerer.nz";
+      }
+    </script>
+  </head>
+  <body>
+    <div class="stripe_container">
+      <div class="stripe blue" onclick="navigateToFourthWall()">
+        <p>Fourth Wall</p>
+      </div>
+      <div class="stripe orange" onclick="naviagteToJupyter()">
+        <p>Jupyter</p>
+      </div>
+    </div>
+
+    <div class="spinning_record">
+      <img class="svg_background" src="digital-music.svg" alt="vinyl disk background">
+    </div>
+  </body>
+  <script src="http://localhost:35729/livereload.js" charset="utf-8"></script>
+</html>

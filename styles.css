@@ -1,0 +1,94 @@
+@import url("https://use.typekit.net/tts6fmp.css");
+
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: bely-display, serif;
+  overflow: hidden;
+  white-space: nowrap;
+}
+div, p {
+  padding: 0;
+  margin: 0;
+}
+/* 21446B, 092545 */
+/* E7B42C, AF7F00 */
+
+
+.stripe_container {
+  position: absolute;
+  transform: rotate(66deg);
+  bottom: 25vh;
+  left: -40vh;
+  z-index: 1;
+}
+
+.blue:hover {
+  cursor: pointer;
+  padding-right: 40vh;
+  padding-left: 50vh;
+  background-color: #21446B;
+  color: #092545;
+}
+.orange:hover {
+  background-color: #E7B42C;
+  color: #AF7F00;
+  cursor: pointer;
+  padding-right: 55vh;
+  padding-left: 75vh;
+}
+
+.stripe {
+  font-size: 80px;
+  text-align: right;
+  transition: 0.5s;
+}
+
+.blue {
+  background-color: #818181;
+  color: #484848;
+  padding-top: 140px;
+  padding-bottom: 10px;
+  padding-right: 30vh;
+  padding-left: 60vh;
+}
+
+.orange {
+  background-color: #A8A8A8;
+  color: #676767;
+  padding-top: 120px;
+  padding-bottom: 20px;
+  padding-right: 45vh;
+  padding-left: 85vh;
+  margin-top: -1px;
+}
+
+.spinning_record {
+  position: absolute;
+  right: 8vw;
+  -webkit-animation: spin 4s linear infinite;
+  -moz-animation: spin 4s linear infinite;
+  animation: spin 4s linear infinite;
+  padding: 5vh 0;
+}
+
+.svg_background {
+  height: 90vh;
+}
+
+/* Animations! */
+@-webkit-keyframes spin {
+  0%{transform: rotate(0deg)}
+  50%{transform: rotate(180deg)}
+  100%{transform: rotate(360deg)}
+}
+@-moz-keyframes spin {
+  0%{transform: rotate(0deg)}
+  50%{transform: rotate(180deg)}
+  100%{transform: rotate(360deg)}
+}
+@keyframes spin {
+  0%{transform: rotate(0deg)}
+  50%{transform: rotate(180deg)}
+  100%{transform: rotate(360deg)}
+}
